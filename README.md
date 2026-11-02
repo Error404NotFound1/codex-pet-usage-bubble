@@ -24,7 +24,7 @@ A tiny macOS overlay that follows the floating pet in the ChatGPT desktop app an
 ## Install
 
 ```bash
-git clone git@github.com:Error404NotFound1/codex-pet-usage-bubble.git
+git clone https://github.com/Error404NotFound1/codex-pet-usage-bubble.git
 cd codex-pet-usage-bubble
 ./scripts/install.sh
 ```
